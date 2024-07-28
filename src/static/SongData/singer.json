@@ -1,0 +1,65 @@
+[
+      
+      {
+        "name": "Hozier",
+        "id":1,
+        "image": "https://anthemtalentagency.com/wp-content/uploads/2021/01/0ecf2dfbc15b1d22998b8d707e5314ac1a-hozier.rsquare.w1200.jpg",
+        "description": "Hozier is an Irish singer-songwriter known for his soulful voice and introspective lyrics. His breakout hit 'Take Me to Church' gained international acclaim, showcasing his distinctive musical style."
+      },
+      {
+        "name": "The weeknd",
+        "id":2,
+        "image": "https://www.thedrop303.org/wp-content/uploads/2020/06/theweeknd_square.jpg",
+        "description": "Abel Makkonen Tesfaye, known professionally as the Weeknd, is a Canadian singer and songwriter. He is noted for his unconventional music production, artistic reinventions, and his signature use of the falsetto register."
+      },
+      {
+        "name": "Selena Gomez",
+        "id":3,
+        "image": "https://i1.wp.com/www.respectability.org/wp-content/uploads/2019/03/Selena-Gomez-Square.jpg?ssl=1",
+        "description": "Selena Gomez is an American singer, actress, and producer. Known for her pop and dance-pop music, she has delivered chart-topping hits such as 'Come & Get It' and 'Good for You.'"
+      },
+      {
+        "name": "Arijit Singh",
+        "id":4,
+        "image": "https://yt3.googleusercontent.com/-WTa1gCzbdqFYE4mxBKH4gAq8F5WDkxzojC95IO4OQ2gv-rMtGyrErKLhep2c3nD3YWc0Sj5JQ=s900-c-k-c0x00ffffff-no-rj",
+        "description": "Arijit Singh is an Indian playback singer known for his soulful voice. He has lent his vocals to numerous hit songs in Bollywood, such as 'Tum Hi Ho' and 'Channa Mereya.'"
+      },
+      {
+        "name": "Imagine dragons",
+        "id":5,
+        "image": "https://www.pngmart.com/files/5/Imagine-Dragons-Transparent-Background.png",
+        "description": "Imagine Dragons are an American pop rock band formed in 2008, based in Las Vegas, Nevada, and currently consists of lead singer Dan Reynolds, guitarist Wayne Sermon, bassist Ben McKee and drummer Daniel Platzman."
+      },
+      {
+        "name": "A. R. Rahman",
+        "id":6,
+        "image": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2018/01/06/191886-rahman-5.jpg",
+        "description": "A. R. Rahman is an iconic composer, singer, and music producer in the Indian film industry. His soul-stirring compositions and vocals in songs like 'Roja' and 'Tere Bina' are widely celebrated."
+      },
+     
+      {
+        "name": "Justin Bieber",
+        "id":7,
+        "image": "https://www.perche-quebec.com/justin-bieber/images/justin-bieber-2014.jpg",
+        "description": "Justin Bieber is a Canadian pop sensation who gained fame as a teenager. With hits like 'Baby' and 'Sorry,' he has become one of the best-selling music artists globally, known for his pop and R&B influences."
+      },
+      
+      {
+        "name": "Ed Sheeran",
+        "id":8,
+        "image": "https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6",
+        "description": "Ed Sheeran is an English singer-songwriter celebrated for his melodic pop and acoustic sound. His chart-topping hits include 'Shape of You' and 'Thinking Out Loud.'"
+      },
+      {
+        "name": "Miley Cyrus",
+        "id":9,
+        "image": "https://static01.nyt.com/images/2020/12/02/arts/01miley-album/01miley-album-mediumSquareAt3X.jpg",
+        "description": "Miley Cyrus is an American singer, songwriter, and actress. From her country roots to her more recent ventures into pop and rock, she has evolved her musical style. Hits like 'Wrecking Ball' and 'Party in the USA' showcase her versatility."
+      },
+      {
+        "name": "Atif Aslam",
+        "id":10,
+        "image": "https://i.pinimg.com/736x/f3/81/21/f3812158f42dc4ff7299f75336a4777d.jpg",
+        "description": "Atif Aslam is a Pakistani singer and actor who has made a mark in Bollywood with his soulful renditions. Some of his popular tracks include 'Tere Hone Laga Hoon' and 'Jeene Laga Hoon.'"
+      }
+]
